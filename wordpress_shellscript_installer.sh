@@ -6,7 +6,7 @@
 #
 # Version history
 # 0.1 03/11/2012 initial release
-# 0.1 11/18/2012 added support for multiple themes and language pack 
+# 0.2 11/18/2012 added support for multiple themes and language pack 
 #
 
 #
